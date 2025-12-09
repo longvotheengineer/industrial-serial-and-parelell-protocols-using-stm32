@@ -1,0 +1,58 @@
+# ========================
+# STM32 & Keil uVision V5
+# ========================
+# Legacy Keil build output
+*.lst
+*.o
+*.d
+*.crf
+*.dep
+*.map
+*.htm
+*.lnp
+*.axf
+*.sct
+*.iex
+*.hex
+*.bin
+
+# Keil 5 Specific folders
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+MDK-ARM/DebugConfig/
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.uvgui.*
+MDK-ARM/*.uvoptx
+MDK-ARM/*.uvopt
+
+# J-Link / ST-Link Debug Log
+JLinkLog.txt
+*.bak
+
+# ========================
+# STM32CubeMX
+# ========================
+.mxproject
+Drivers/STM32F1xx_HAL_Driver/ # Optional: Uncomment if you want to ignore HAL drivers to save space
+
+# ========================
+# Visual Studio (C# GUI)
+# ========================
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+.vs/
+
+# ========================
+# OS & General
+# ========================
+.DS_Store
+Thumbs.db
+.vscode/
