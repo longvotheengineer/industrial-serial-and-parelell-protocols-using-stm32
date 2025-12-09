@@ -1,0 +1,5 @@
+C:\Users\linhl\OneDrive\Máy tính\Led_Button\Led_Button\obj\Debug\Led_Button.csproj.AssemblyReference.cache
+C:\Users\linhl\OneDrive\Máy tính\Led_Button\Led_Button\obj\Debug\Led_Button.Form1.resources
+C:\Users\linhl\OneDrive\Máy tính\Led_Button\Led_Button\obj\Debug\Led_Button.Properties.Resources.resources
+C:\Users\linhl\OneDrive\Máy tính\Led_Button\Led_Button\obj\Debug\Led_Button.csproj.GenerateResource.cache
+C:\Users\linhl\OneDrive\Máy tính\Led_Button\Led_Button\obj\Debug\Led_Button.csproj.CoreCompileInputs.cache

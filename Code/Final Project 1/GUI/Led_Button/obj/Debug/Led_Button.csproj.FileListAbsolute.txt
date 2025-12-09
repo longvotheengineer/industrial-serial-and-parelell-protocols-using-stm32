@@ -1,0 +1,117 @@
+C:\Users\linhl\OneDrive\Máy tính\Led_Button\Led_Button\obj\Debug\Led_Button.csproj.AssemblyReference.cache
+C:\Users\linhl\OneDrive\Máy tính\Led_Button\Led_Button\obj\Debug\Led_Button.Form1.resources
+C:\Users\linhl\OneDrive\Máy tính\Led_Button\Led_Button\obj\Debug\Led_Button.Properties.Resources.resources
+C:\Users\linhl\OneDrive\Máy tính\Led_Button\Led_Button\obj\Debug\Led_Button.csproj.GenerateResource.cache
+C:\Users\linhl\OneDrive\Máy tính\Led_Button\Led_Button\obj\Debug\Led_Button.csproj.CoreCompileInputs.cache
+D:\STM32 Own File\Led_Button_1\Led_Button\obj\Debug\Led_Button.csproj.AssemblyReference.cache
+D:\STM32 Own File\Led_Button_1\Led_Button\obj\Debug\Led_Button.Form1.resources
+D:\STM32 Own File\Led_Button_1\Led_Button\obj\Debug\Led_Button.Properties.Resources.resources
+D:\STM32 Own File\Led_Button_1\Led_Button\obj\Debug\Led_Button.csproj.GenerateResource.cache
+D:\STM32 Own File\Led_Button_1\Led_Button\obj\Debug\Led_Button.csproj.CoreCompileInputs.cache
+D:\STM32 Own File\Led_Button_1\Led_Button\bin\Debug\Led_Button.exe.config
+D:\STM32 Own File\Led_Button_1\Led_Button\bin\Debug\Led_Button.exe
+D:\STM32 Own File\Led_Button_1\Led_Button\bin\Debug\Led_Button.pdb
+D:\STM32 Own File\Led_Button_1\Led_Button\obj\Debug\Led_Button.exe
+D:\STM32 Own File\Led_Button_1\Led_Button\obj\Debug\Led_Button.pdb
+C:\Users\linhl\OneDrive\Máy tính\Led_Button_VS\Led_Button\bin\Debug\Led_Button.exe.config
+C:\Users\linhl\OneDrive\Máy tính\Led_Button_VS\Led_Button\bin\Debug\Led_Button.exe
+C:\Users\linhl\OneDrive\Máy tính\Led_Button_VS\Led_Button\bin\Debug\Led_Button.pdb
+C:\Users\linhl\OneDrive\Máy tính\Led_Button_VS\Led_Button\obj\Debug\Led_Button.csproj.AssemblyReference.cache
+C:\Users\linhl\OneDrive\Máy tính\Led_Button_VS\Led_Button\obj\Debug\Led_Button.Form1.resources
+C:\Users\linhl\OneDrive\Máy tính\Led_Button_VS\Led_Button\obj\Debug\Led_Button.Properties.Resources.resources
+C:\Users\linhl\OneDrive\Máy tính\Led_Button_VS\Led_Button\obj\Debug\Led_Button.csproj.GenerateResource.cache
+C:\Users\linhl\OneDrive\Máy tính\Led_Button_VS\Led_Button\obj\Debug\Led_Button.csproj.CoreCompileInputs.cache
+C:\Users\linhl\OneDrive\Máy tính\Led_Button_VS\Led_Button\obj\Debug\Led_Button.exe
+C:\Users\linhl\OneDrive\Máy tính\Led_Button_VS\Led_Button\obj\Debug\Led_Button.pdb
+C:\Users\ADMIN\OneDrive\Tài liệu\Learning\DLVDKBMT\PRJ\Code\UART\Led_Button_VS\Led_Button\bin\Debug\Led_Button.exe.config
+C:\Users\ADMIN\OneDrive\Tài liệu\Learning\DLVDKBMT\PRJ\Code\UART\Led_Button_VS\Led_Button\bin\Debug\Led_Button.exe
+C:\Users\ADMIN\OneDrive\Tài liệu\Learning\DLVDKBMT\PRJ\Code\UART\Led_Button_VS\Led_Button\bin\Debug\Led_Button.pdb
+C:\Users\ADMIN\OneDrive\Tài liệu\Learning\DLVDKBMT\PRJ\Code\UART\Led_Button_VS\Led_Button\obj\Debug\Led_Button.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Tài liệu\Learning\DLVDKBMT\PRJ\Code\UART\Led_Button_VS\Led_Button\obj\Debug\Led_Button.Form1.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Learning\DLVDKBMT\PRJ\Code\UART\Led_Button_VS\Led_Button\obj\Debug\Led_Button.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Learning\DLVDKBMT\PRJ\Code\UART\Led_Button_VS\Led_Button\obj\Debug\Led_Button.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Tài liệu\Learning\DLVDKBMT\PRJ\Code\UART\Led_Button_VS\Led_Button\obj\Debug\Led_Button.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Tài liệu\Learning\DLVDKBMT\PRJ\Code\UART\Led_Button_VS\Led_Button\obj\Debug\Led_Button.exe
+C:\Users\ADMIN\OneDrive\Tài liệu\Learning\DLVDKBMT\PRJ\Code\UART\Led_Button_VS\Led_Button\obj\Debug\Led_Button.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\bin\Debug\Led_Button.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\bin\Debug\Led_Button.exe
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\bin\Debug\Led_Button.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\bin\Debug\ZedGraph.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\bin\Debug\ZedGraph.xml
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\obj\Debug\Led_Button.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\obj\Debug\Led_Button.Form1.resources
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\obj\Debug\Led_Button.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\obj\Debug\Led_Button.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\obj\Debug\Led_Button.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\obj\Debug\Led_Button.csproj.Up2Date
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\obj\Debug\Led_Button.exe
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\Winsform\Led_Button\obj\Debug\Led_Button.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\Led_Button.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\Led_Button.exe
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\Led_Button.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\ZedGraph.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\ZedGraph.xml
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\obj\Debug\Led_Button.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\obj\Debug\Led_Button.Form1.resources
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\obj\Debug\Led_Button.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\obj\Debug\Led_Button.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\obj\Debug\Led_Button.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\obj\Debug\Led_Button.csproj.Up2Date
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\obj\Debug\Led_Button.exe
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\obj\Debug\Led_Button.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\obj\Debug\Led_Button.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\obj\Debug\Led_Button.Form1.resources
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\obj\Debug\Led_Button.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\obj\Debug\Led_Button.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\obj\Debug\Led_Button.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\obj\Debug\Led_Button.exe
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\obj\Debug\Led_Button.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\Led_Button.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\Led_Button.exe
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\Led_Button.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\ZedGraph.dll
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\ZedGraph.xml
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\obj\Debug\Led_Button.csproj.Up2Date
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\System.CodeDom.dll
+C:\Users\ADMIN\OneDrive\Máy tính\GUI\Led_Button\bin\Debug\System.CodeDom.xml
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\System.CodeDom.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Final Project\GUI\Led_Button\bin\Debug\System.CodeDom.xml

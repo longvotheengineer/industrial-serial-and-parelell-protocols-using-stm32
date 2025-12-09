@@ -1,0 +1,22 @@
+--cpu Cortex-M3
+"opto\startup_stm32f103xb.o"
+"opto\main.o"
+"opto\stm32f1xx_it.o"
+"opto\stm32f1xx_hal_msp.o"
+"opto\stm32f1xx_hal_gpio_ex.o"
+"opto\stm32f1xx_hal_uart.o"
+"opto\stm32f1xx_hal.o"
+"opto\stm32f1xx_hal_rcc.o"
+"opto\stm32f1xx_hal_rcc_ex.o"
+"opto\stm32f1xx_hal_gpio.o"
+"opto\stm32f1xx_hal_dma.o"
+"opto\stm32f1xx_hal_cortex.o"
+"opto\stm32f1xx_hal_pwr.o"
+"opto\stm32f1xx_hal_flash.o"
+"opto\stm32f1xx_hal_flash_ex.o"
+"opto\stm32f1xx_hal_exti.o"
+"opto\system_stm32f1xx.o"
+--strict --scatter "OPTO\OPTO.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "OPTO.map" -o OPTO\OPTO.axf

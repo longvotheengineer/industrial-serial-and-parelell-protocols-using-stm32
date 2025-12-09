@@ -1,0 +1,21 @@
+--cpu Cortex-M3
+"sram\startup_stm32f103xb.o"
+"sram\main.o"
+"sram\stm32f1xx_it.o"
+"sram\stm32f1xx_hal_msp.o"
+"sram\stm32f1xx_hal_gpio_ex.o"
+"sram\stm32f1xx_hal.o"
+"sram\stm32f1xx_hal_rcc.o"
+"sram\stm32f1xx_hal_rcc_ex.o"
+"sram\stm32f1xx_hal_gpio.o"
+"sram\stm32f1xx_hal_dma.o"
+"sram\stm32f1xx_hal_cortex.o"
+"sram\stm32f1xx_hal_pwr.o"
+"sram\stm32f1xx_hal_flash.o"
+"sram\stm32f1xx_hal_flash_ex.o"
+"sram\stm32f1xx_hal_exti.o"
+"sram\system_stm32f1xx.o"
+--strict --scatter "SRAM\SRAM.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "SRAM.map" -o SRAM\SRAM.axf

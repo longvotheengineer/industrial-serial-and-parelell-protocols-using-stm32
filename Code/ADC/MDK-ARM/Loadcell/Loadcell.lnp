@@ -1,0 +1,24 @@
+--cpu Cortex-M3
+"loadcell\startup_stm32f103xb.o"
+"loadcell\main.o"
+"loadcell\stm32f1xx_it.o"
+"loadcell\stm32f1xx_hal_msp.o"
+"loadcell\stm32f1xx_hal_gpio_ex.o"
+"loadcell\stm32f1xx_hal_tim.o"
+"loadcell\stm32f1xx_hal_tim_ex.o"
+"loadcell\stm32f1xx_hal.o"
+"loadcell\stm32f1xx_hal_rcc.o"
+"loadcell\stm32f1xx_hal_rcc_ex.o"
+"loadcell\stm32f1xx_hal_gpio.o"
+"loadcell\stm32f1xx_hal_dma.o"
+"loadcell\stm32f1xx_hal_cortex.o"
+"loadcell\stm32f1xx_hal_pwr.o"
+"loadcell\stm32f1xx_hal_flash.o"
+"loadcell\stm32f1xx_hal_flash_ex.o"
+"loadcell\stm32f1xx_hal_exti.o"
+"loadcell\stm32f1xx_hal_uart.o"
+"loadcell\system_stm32f1xx.o"
+--library_type=microlib --strict --scatter "Loadcell\Loadcell.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Loadcell.map" -o Loadcell\Loadcell.axf
